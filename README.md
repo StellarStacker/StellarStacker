@@ -27,7 +27,7 @@ Here are a few projects I've worked on:
 
 ## Get in Touch
 
-- 📧 Email: stellarstacker@example.com
+- 📧 Email: realstellarstacker@gmail.com
 - 💼 LinkedIn: [StellarStacker](https://www.linkedin.com/in/tharanetharan-s-8a1763210/)
 - 🐦 Twitter: [@StellarStacker](https://x.com/Tharanetharan4)
 
