@@ -12,22 +12,24 @@ I'm a passionate developer with a love for exploring new technologies and solvin
 
 - **Languages**: Python, JavaScript, Java, C
 - **Web Development**: HTML, CSS, React, Node.js
-- **Data Science**: Pandas, NumPy, Scikit-Learn
-- **Tools**: Git, Docker, VS Code, Jupyter Notebook
+- **Tools**: Git, Docker, VS Code, Intellij Idea, Ecilpse, Postman, Jupyter Notebook
 
 ## Projects
 
 Here are a few projects I've worked on:
 
 - 🌟 [StellarExplorer](https://github.com/StellarStacker/StellarExplorer): A web app for exploring astronomical data.
-- 📈 [DataViz](https://github.com/StellarStacker/DataViz): A collection of data visualization projects using Python.
 - 🔧 [DevTools](https://github.com/StellarStacker/DevTools): A set of tools and utilities for developers.
+
+## GitHub Stats
+
+![StellarStacker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StellarStacker&show_icons=true&theme=radical)
 
 ## Get in Touch
 
 - 📧 Email: stellarstacker@example.com
-- 💼 LinkedIn: [StellarStacker](https://linkedin.com/in/StellarStacker)
-- 🐦 Twitter: [@StellarStacker](https://twitter.com/StellarStacker)
+- 💼 LinkedIn: [StellarStacker](https://www.linkedin.com/in/tharanetharan-s-8a1763210/)
+- 🐦 Twitter: [@StellarStacker](https://x.com/Tharanetharan4)
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech and astronomy!
 
