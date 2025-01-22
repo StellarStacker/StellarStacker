@@ -28,8 +28,8 @@ Here are a few projects I've worked on:
 ## Get in Touch
 
 - 📧 Email: realstellarstacker@gmail.com
-- 💼 LinkedIn: [StellarStacker](https://www.linkedin.com/in/tharanetharan-s-8a1763210/)
-- 🐦 Twitter: [@StellarStacker](https://x.com/Tharanetharan4)
+- 💼 LinkedIn: https://www.linkedin.com/in/tharanetharan-s-8a1763210/
+- 🐦 Twitter:  https://x.com/Tharanetharan4
 
 Feel free to reach out if you want to collaborate on a project or just chat about tech and astronomy!
 
