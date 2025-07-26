@@ -1,36 +1,51 @@
-# Hi there, I'm StellarStacker! 👋
+<!-- README.md -->
 
-I'm a passionate developer with a love for exploring new technologies and solving challenging problems. Welcome to my GitHub profile!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Stellar%20Stacker&fontSize=60&desc=Crafting+Cloud+%26+Code+Magic+|+Java+%7C+Spring+Boot+%7C+DevOps&descAlign=65&animation=rollIn" alt="Stellar Stacker Banner"/>
+</div>
 
-## About Me
+---
 
-- 🌌 **Astronomy Enthusiast**: I love stargazing and exploring the mysteries of the universe.
-- 💻 **Software Developer**: I enjoy building software solutions that make a difference.
-- 📚 **Lifelong Learner**: I'm always learning new things and expanding my skill set.
+## 💫 Who Am I
+```yaml
+name: Stellar Stacker
+specialty: Full‑Stack Developer | Cloud‑Native Architect
+languages: [Java, JavaScript, Python, C]
+frameworks: [Spring Boot, React, Express]
+tools: [Docker, Kubernetes, GitHub Actions, CI/CD]
+current_focus: DevOps automation, scalable systems, GCP/AWS integration
+fun_fact: "I test in prod... just kidding, I Dockerize first! 😎"
 
-## Skills
+🚀 Tech Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,docker,kubernetes,github,python,c" alt="Skills Icons"/> </p>
+🛠️ What I Build
+Project	Stack	What it Does
+SecureChat 🔐	Java · Spring Boot · WebSocket · Docker	Real-time encrypted messaging app
+Taskify ✅	React · Express · MongoDB	Full-stack task manager with live updates
+DevDeploy 🚀	GitHub Actions · Docker · K8s	CI/CD pipeline template for containerized microservices
+Stellar Portfolio ✨	Tailwind · JS · HTML	A blazing-fast personal portfolio with modern UI
 
-- **Languages**: Python, JavaScript, Java, C
-- **Web Development**: HTML, CSS, React, Node.js
-- **Tools**: Git, Docker, VS Code, Intellij Idea, Ecilpse, Postman, Jupyter Notebook
+✨ More stellar creations in progress...
 
-## Projects
+📊 GitHub Universe
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=stellarstacker&theme=radical&hide_border=true" height="140" /> <img src="https://github-readme-stats.vercel.app/api?username=stellarstacker&show_icons=true&theme=highcontrast&hide_border=true" height="140" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellarstacker&layout=compact&theme=highcontrast&hide_border=true" height="140" /> </p>
+🎛️ Live GitHub Action Widgets
+<p align="center"> <a href="https://profile-counter.glitch.me/stellarstacker/count.svg"> <img src="https://profile-counter.glitch.me/stellarstacker/count.svg" alt="👁️ Visitor Count"/> </a> <img src="https://github-profile-trophy.vercel.app/?username=stellarstacker&theme=darkhub&no-frame=true&row=1&column=5" alt="🏆 GitHub Trophies"/> </p>
+🧑‍💻 Personal Showcase & Goals
+Java is my bread & butter — Spring Boot specialist
 
-Here are a few projects I've worked on:
+Frontend finesse built with React & Express
 
-- 🌟 [StellarExplorer](https://github.com/StellarStacker/StellarExplorer): A web app for exploring astronomical data.
-- 🔧 [DevTools](https://github.com/StellarStacker/DevTools): A set of tools and utilities for developers.
+Infrastructure-as-code, container orchestration, CI/CD pipelines
 
-## GitHub Stats
+Databases: MongoDB, MySQL (with optimization & schema design)
 
-![StellarStacker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=StellarStacker&show_icons=true&theme=radical)
+I'm constantly boosting: building microservices, scaling systems, Kubernetes ops
 
-## Get in Touch
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/stellarstacker"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:stellarstacker@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/stellarstacker"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
+🎯 Believe This
+“Keep coding, stay curious, melt GPUs with passion.”
+— Stellar Stacker
 
-- 📧 Email: realstellarstacker@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/tharanetharan-s-8a1763210/
-- 🐦 Twitter:  https://x.com/Tharanetharan4
-
-Feel free to reach out if you want to collaborate on a project or just chat about tech and astronomy!
-
-Thanks for visiting my profile! ⭐
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&section=footer&color=gradient&height=120" alt="Footer Banner"/> </div> ```
