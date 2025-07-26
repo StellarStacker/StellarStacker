@@ -1,51 +1,194 @@
-<!-- README.md -->
+# 🌟 **STELLAR STACKER** 🌟
+### 『 Full-Stack Developer | Cloud-Native Engineer | Java Enthusiast 』
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Stellar%20Stacker&fontSize=60&desc=Crafting+Cloud+%26+Code+Magic+|+Java+%7C+Spring+Boot+%7C+DevOps&descAlign=65&animation=rollIn" alt="Stellar Stacker Banner"/>
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Tech+Today+%E2%9A%A1;Code+%7C+Create+%7C+Conquer+%F0%9F%9A%80)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
+
+<div align="center">
+  
+### 📍 **Location:** India 🇮🇳 | **Next Stop:** UTSA, USA 🇺🇸
+### 🎓 **Education:** 2nd Year B.Tech CSE + Business Systems
+### 🎯 **Mission:** Crafting scalable, cloud-native solutions that shape the future
+
 </div>
 
 ---
 
-## 💫 Who Am I
+## 🚀 **ABOUT THE STELLAR DEVELOPER**
+
 ```yaml
-name: Stellar Stacker
-specialty: Full‑Stack Developer | Cloud‑Native Architect
-languages: [Java, JavaScript, Python, C]
-frameworks: [Spring Boot, React, Express]
-tools: [Docker, Kubernetes, GitHub Actions, CI/CD]
-current_focus: DevOps automation, scalable systems, GCP/AWS integration
-fun_fact: "I test in prod... just kidding, I Dockerize first! 😎"
+name: "Stellar Stacker"
+location: "India 🇮🇳"
+education: "B.Tech CSE + Business Systems (2nd Year)"
+future_plans: "UTSA, USA"
+current_focus: "Full-Stack Development & Cloud-Native Engineering"
+passion: "Building tomorrow's technology today"
+mindset: "Ambitious • Creative • Driven • Future-Forward"
+motto: "Code with purpose, build with passion, deploy with precision"
+```
 
-🚀 Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,spring,js,react,nodejs,express,mongodb,docker,kubernetes,github,python,c" alt="Skills Icons"/> </p>
-🛠️ What I Build
-Project	Stack	What it Does
-SecureChat 🔐	Java · Spring Boot · WebSocket · Docker	Real-time encrypted messaging app
-Taskify ✅	React · Express · MongoDB	Full-stack task manager with live updates
-DevDeploy 🚀	GitHub Actions · Docker · K8s	CI/CD pipeline template for containerized microservices
-Stellar Portfolio ✨	Tailwind · JS · HTML	A blazing-fast personal portfolio with modern UI
+<div align="center">
 
-✨ More stellar creations in progress...
+### 💫 **"The future belongs to those who code it"** 💫
 
-📊 GitHub Universe
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=stellarstacker&theme=radical&hide_border=true" height="140" /> <img src="https://github-readme-stats.vercel.app/api?username=stellarstacker&show_icons=true&theme=highcontrast&hide_border=true" height="140" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellarstacker&layout=compact&theme=highcontrast&hide_border=true" height="140" /> </p>
-🎛️ Live GitHub Action Widgets
-<p align="center"> <a href="https://profile-counter.glitch.me/stellarstacker/count.svg"> <img src="https://profile-counter.glitch.me/stellarstacker/count.svg" alt="👁️ Visitor Count"/> </a> <img src="https://github-profile-trophy.vercel.app/?username=stellarstacker&theme=darkhub&no-frame=true&row=1&column=5" alt="🏆 GitHub Trophies"/> </p>
-🧑‍💻 Personal Showcase & Goals
-Java is my bread & butter — Spring Boot specialist
+</div>
 
-Frontend finesse built with React & Express
+---
 
-Infrastructure-as-code, container orchestration, CI/CD pipelines
+## ⚡ **TECH ARSENAL**
 
-Databases: MongoDB, MySQL (with optimization & schema design)
+<div align="center">
 
-I'm constantly boosting: building microservices, scaling systems, Kubernetes ops
+### 🔥 **Core Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-🌐 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/stellarstacker"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:stellarstacker@example.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://github.com/stellarstacker"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> </p>
-🎯 Believe This
-“Keep coding, stay curious, melt GPUs with passion.”
-— Stellar Stacker
+### 🎨 **Frontend Magic**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&section=footer&color=gradient&height=120" alt="Footer Banner"/> </div> ```
+### ⚙️ **Backend Power**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### 🗄️ **Database Mastery**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### ☁️ **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 **STELLAR ACHIEVEMENTS**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **Technical Milestones**
+- 🧠 **50+ Java DSA Solutions** - Master of algorithms
+- 🏅 **Debugging Contest Winner** - Problem-solving champion  
+- 🤖 **Intel AI Hackathon Participant** - AI innovation explorer
+- 📱 **Android Development** - Mobile app creator
+- 🎨 **UI/UX Design** - User experience architect
+
+</td>
+<td width="50%">
+
+### 🚀 **Project Highlights**
+- 💬 **SecureChat** - End-to-end encrypted messaging
+- ✅ **Taskify** - Smart task management system
+- 🚀 **DevDeploy** - Automated deployment platform
+- 🛒 **E-commerce Platform** - Student-focused marketplace
+- 🔧 **Various Full-Stack Apps** - MERN stack mastery
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 **GITHUB UNIVERSE**
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🔥 **Performance Metrics**
+
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stellarstacker&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellarstacker&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</p>
+
+### 🔥 **Contribution Streak**
+<img src="https://github-readme-streak-stats.herokuapp.com?user=stellarstacker&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="100%"/>
+
+### 🏆 **GitHub Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=stellarstacker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+
+### 📈 **Activity Graph**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stellarstacker&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎨 **SKILL CONSTELLATION**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,c,react,nodejs,express,mongodb,spring,docker,kubernetes,github,linux,git,firebase,tailwind,android,django,html,css&theme=dark&perline=10" />
+
+</div>
+
+---
+
+## 🌟 **CONNECT WITH THE STELLAR DEVELOPER**
+
+<div align="center">
+
+### 💌 **Let's Build the Future Together**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stellarstacker@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stellarstacker)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stellarstacker)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://stellarstacker.dev)
+
+### 🌈 **Current Focus Areas**
+```
+🔹 Mastering System Design & Scalable Architectures
+🔹 Exploring Cloud-Native Development Patterns  
+🔹 Building Production-Ready Full-Stack Applications
+🔹 Contributing to Open Source Projects
+🔹 Preparing for International Tech Opportunities
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 **VISITOR CONSTELLATION** 💫
+![Visitor Count](https://profile-counter.glitch.me/stellarstacker/count.svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### ⭐ **"Every line of code is a step towards tomorrow"** ⭐
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=STELLAR%20STACKER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65)
+
+</div>
+
+---
+
+<div align="center">
+  
+**Made with 💙 and ⚡ by Stellar Stacker**  
+*Transforming ideas into digital reality, one commit at a time*
+
+</div>
