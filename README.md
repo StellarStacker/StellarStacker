@@ -135,14 +135,6 @@ motto: "Code with purpose, build with passion, deploy with precision"
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stellarstacker)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://stellarstacker.dev)
 
-### 🌈 **Current Focus Areas**
-```
-🔹 Mastering System Design & Scalable Architectures
-🔹 Exploring Cloud-Native Development Patterns  
-🔹 Building Production-Ready Full-Stack Applications
-🔹 Contributing to Open Source Projects
-🔹 Preparing for International Tech Opportunities
-```
 
 </div>
 
@@ -150,12 +142,10 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <div align="center">
 
-// ...existing code...
 
 ### 💫 **VISITOR CONSTELLATION** 💫
 ![Visitor Count](https://komarev.com/ghpvc/?username=stellarstacker&color=00D9FF&style=for-the-badge&label=STELLAR+VISITORS)
 
-// ...existing code...
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
