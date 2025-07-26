@@ -1,4 +1,4 @@
-# 🌟 **STELLAR STACKER** 🌟
+# 🌟 **STELLARSTACKER** 🌟
 ### 『 Full-Stack Developer | Cloud-Native Engineer | Java Enthusiast 』
 
 <div align="center">
@@ -11,9 +11,9 @@
 
 <div align="center">
   
-### 📍 **Location:** India 🇮🇳 | **Next Stop:** UTSA, USA 🇺🇸
+### 📍 **Location:** India 🇮🇳 
 ### 🎓 **Education:** 2nd Year B.Tech CSE + Business Systems
-### 🎯 **Mission:** Crafting scalable, cloud-native solutions that shape the future
+### 🎯 **Mission:** Crafting scalable, cloud-native solutions and real life solutions that shape the future
 
 </div>
 
@@ -24,8 +24,7 @@
 ```yaml
 name: "Stellar Stacker"
 location: "India 🇮🇳"
-education: "B.Tech CSE + Business Systems (2nd Year)"
-future_plans: "UTSA, USA"
+education: "B.Tech CS + Business Systems (3rd Year)"
 current_focus: "Full-Stack Development & Cloud-Native Engineering"
 passion: "Building tomorrow's technology today"
 mindset: "Ambitious • Creative • Driven • Future-Forward"
@@ -188,7 +187,7 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <div align="center">
   
-**Made with 💙 and ⚡ by Stellar Stacker**  
+**Made with 💙 and ⚡ by StellarStacker**  
 *Transforming ideas into digital reality, one commit at a time*
 
 </div>
