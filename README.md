@@ -77,35 +77,13 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 ---
 
-## 🏆 **STELLAR ACHIEVEMENTS**
+## 🏆 **STELLARSTACKER'S ACHIEVEMENTS**
 
 <div align="center">
 
 <table>
 <tr>
 <td width="50%">
-
-### 🎯 **Technical Milestones**
-- 🧠 **50+ Java DSA Solutions** - Master of algorithms
-- 🏅 **Debugging Contest Winner** - Problem-solving champion  
-- 🤖 **Intel AI Hackathon Participant** - AI innovation explorer
-- 📱 **Android Development** - Mobile app creator
-- 🎨 **UI/UX Design** - User experience architect
-
-</td>
-<td width="50%">
-
-### 🚀 **Project Highlights**
-- 💬 **SecureChat** - End-to-end encrypted messaging
-- ✅ **Taskify** - Smart task management system
-- 🚀 **DevDeploy** - Automated deployment platform
-- 🛒 **E-commerce Platform** - Student-focused marketplace
-- 🔧 **Various Full-Stack Apps** - MERN stack mastery
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
