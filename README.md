@@ -1,4 +1,4 @@
-# 🌟 **STELLARSTACKER** 🌟
+#  **STELLARSTACKER** 
 ### 『 Full-Stack Developer | Cloud-Native Engineer | Java Enthusiast 』
 
 <div align="center">
@@ -33,7 +33,7 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <div align="center">
 
-### 💫 **"The future belongs to those who code it"** 💫
+###  **"The future belongs to those who code it"** 
 
 </div>
 
@@ -102,7 +102,7 @@ motto: "Code with purpose, build with passion, deploy with precision"
 </p>
 
 ### 🔥 **Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com?user=stellarstacker&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="100%"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,react,nodejs,express,mongodb,spring,docker,kubernetes,git,github,linux,firebase,tailwind,android,django,html,css&theme=dark&perline=10" />
 
 ### 🏆 **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=stellarstacker&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
