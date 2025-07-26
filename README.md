@@ -12,7 +12,7 @@
 <div align="center">
   
 ### 📍 **Location:** India 🇮🇳 
-### 🎓 **Education:** 2nd Year B.Tech CSE + Business Systems
+### 🎓 **Education:** 3rd Year B.Tech CSE + Business Systems
 ### 🎯 **Mission:** Crafting scalable, cloud-native solutions and real life solutions that shape the future
 
 </div>
@@ -172,8 +172,12 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <div align="center">
 
+// ...existing code...
+
 ### 💫 **VISITOR CONSTELLATION** 💫
-![Visitor Count](https://profile-counter.glitch.me/stellarstacker/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=stellarstacker&color=00D9FF&style=for-the-badge&label=STELLAR+VISITORS)
+
+// ...existing code...
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
