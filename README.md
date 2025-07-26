@@ -118,7 +118,7 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,c,react,nodejs,express,mongodb,spring,docker,kubernetes,git,linux,firebase,tailwind,android,django,html,css&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,python,js,c,react,nodejs,express,mongodb,spring,docker,kubernetes,git,linux,firebase,tailwind,django,html,css&theme=dark&perline=10" />
 
 </div>
 
