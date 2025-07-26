@@ -130,10 +130,9 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 ### 💌 **Let's Build the Future Together**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stellarstacker@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stellarstacker)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:realstellarstacker@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharanetharan)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stellarstacker)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://stellarstacker.dev)
 
 
 </div>
@@ -147,19 +146,3 @@ motto: "Code with purpose, build with passion, deploy with precision"
 ![Visitor Count](https://komarev.com/ghpvc/?username=stellarstacker&color=00D9FF&style=for-the-badge&label=STELLAR+VISITORS)
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### ⭐ **"Every line of code is a step towards tomorrow"** ⭐
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=STELLAR%20STACKER&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65)
-
-</div>
-
----
-
-<div align="center">
-  
-**Made with 💙 and ⚡ by StellarStacker**  
-*Transforming ideas into digital reality, one commit at a time*
-
-</div>
