@@ -141,8 +141,8 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <div align="center">
 
-
 ### 💫 **VISITOR CONSTELLATION** 💫
-![Visitor Count](https://komarev.com/ghpvc/?username=stellarstacker&color=00D9FF&style=for-the-badge&label=STELLAR+VISITORS)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=stellarstacker.stellarstacker&style=for-the-badge&color=00d9ff&labelColor=000000)
+
 
 
