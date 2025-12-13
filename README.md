@@ -9,22 +9,12 @@
 
 </div>
 
-<div align="center">
-  
-### 📍 **Location:** India 🇮🇳 
-### 🎓 **Education:** 3rd Year B.Tech CSE + Business Systems
-### 🎯 **Mission:** Crafting scalable, cloud-native solutions and real life solutions that shape the future
 
-</div>
-
----
-
-## 🚀 **ABOUT THE STELLARSTACKER**
+## **ABOUT THE STELLARSTACKER**
 
 ```yaml
 name: "Stellar Stacker"
 location: "India 🇮🇳"
-education: "B.Tech CS + Business Systems (3rd Year)"
 current_focus: "Full-Stack Development & Cloud-Native Engineering"
 passion: "Building tomorrow's technology today"
 mindset: "Ambitious • Creative • Driven • Future-Forward"
