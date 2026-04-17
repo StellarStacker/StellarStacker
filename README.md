@@ -29,7 +29,7 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 ---
 
-## ⚡ **TECH ARSENAL**
+## **TECH ARSENAL**
 
 <div align="center">
 
