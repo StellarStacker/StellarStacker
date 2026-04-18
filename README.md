@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+Tomorrow's+Tech+Today+%E2%9A%A1;Code+%7C+Create+%7C+Conquer+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Welcome+to+my+Digital+Universe;)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -13,8 +13,7 @@
 ## **ABOUT THE STELLARSTACKER**
 
 ```yaml
-name: "Stellar Stacker"
-location: "India 🇮🇳"
+name: "StellarStacker"
 current_focus: "Full-Stack Development & Cloud-Native Engineering"
 passion: "Building tomorrow's technology today"
 mindset: "Ambitious • Creative • Driven • Future-Forward"
@@ -131,7 +130,7 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <div align="center">
 
-### **NET STALKERS** 
+### **NET STALKERS ** 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=stellarstacker.stellarstacker&style=for-the-badge&color=00d9ff&labelColor=000000)
 
 
