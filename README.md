@@ -83,13 +83,6 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-###  **Performance Metrics**
-
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=stellarstacker&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stellarstacker&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-</p>
-
 ###  **Contribution Streak**
 <img src="https://skillicons.dev/icons?i=java,python,js,c,react,nodejs,express,mongodb,spring,docker,kubernetes,git,github,linux,firebase,tailwind,android,django,html,css&theme=dark&perline=10" />
 
