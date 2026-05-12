@@ -1,9 +1,9 @@
 #  **STELLARSTACKER** 
-###  Full-Stack Developer | Cloud-Native Engineer | Java Enthusiast 
+###  Founder | Full-Stack Developer | Cloud-Native Engineer | Java Enthusiast 
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Welcome+to+my+Digital+Universe;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Welcome+to+my+Digital+Universe;)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -14,15 +14,10 @@
 
 ```yaml
 name: "StellarStacker"
-current_focus: "Full-Stack Development & Cloud-Native Engineering"
-passion: "Building tomorrow's technology today"
-mindset: "Ambitious • Creative • Driven • Future-Forward"
-motto: "Code with purpose, build with passion, deploy with precision"
+"Full-Stack Development & Cloud-Native Engineering"
 ```
 
 <div align="center">
-
-###  **"The future belongs to those who code it"** 
 
 </div>
 
@@ -36,7 +31,7 @@ motto: "Code with purpose, build with passion, deploy with precision"
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ###  **Frontend Magic**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -123,7 +118,7 @@ motto: "Code with purpose, build with passion, deploy with precision"
 
 <div align="center">
 
-### **NET STALKERS ** 
+### NET STALKERS 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=stellarstacker.stellarstacker&style=for-the-badge&color=00d9ff&labelColor=000000)
 
 
