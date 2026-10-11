@@ -1,5 +1,5 @@
 #  **STELLARSTACKER** 
-###  Founder | Cloud-Native Engineer | Java Enthusiast 
+###  Founder | Cloud-Native Engineer | AI Enthusiast 
 
 <div align="center">
   
